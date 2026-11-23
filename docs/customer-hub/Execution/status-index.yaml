@@ -1,0 +1,66 @@
+# Auto-generated — do not edit manually
+# Updated: 2026-11-23T09:47:03.149Z
+
+documents:
+  - path: docs/customer-hub/Execution/operative-on-way-compatibility-brings-real-time-last-mile-tr/5.product-beta-release-rollout.epic.md
+    id: 27cae104-d6a9-4a8b-9fc3-4803b28aa83f
+    category: epic
+    key: CHU-5
+    status: Done
+    moscow: Must
+    tshirt: M
+    parent_press_release: operative-on-way-compatibility-brings-real-time-last-mile-tr.pr.md
+  - path: docs/customer-hub/Execution/operative-on-way-compatibility-brings-real-time-last-mile-tr/2.comprehensive-qa-validation.epic.md
+    id: 2c2d23b0-09df-4c54-85cf-3a5fae91f04e
+    category: epic
+    key: CHU-2
+    status: Done
+    moscow: Must
+    tshirt: M
+    parent_press_release: operative-on-way-compatibility-brings-real-time-last-mile-tr.pr.md
+  - path: docs/customer-hub/Execution/operative-on-way-compatibility-brings-real-time-last-mile-tr/3.defect-management-hardening.epic.md
+    id: 5bd36586-303f-4669-890e-6bfd7b677a29
+    category: epic
+    key: CHU-3
+    status: Done
+    moscow: Must
+    tshirt: M
+    parent_press_release: operative-on-way-compatibility-brings-real-time-last-mile-tr.pr.md
+  - path: docs/customer-hub/Execution/operative-on-way-compatibility-brings-real-time-last-mile-tr.pr.md
+    id: aa449585-e1b7-420e-b149-67cb86381122
+    category: press-release
+    key: CHU-42
+    status: Done
+    tshirt: M
+    period: Q3 FY27
+    targetDate: 2026-11-30
+  - path: docs/customer-hub/Execution/complete-eu-data-eu-ai-act-audit.pr.md
+    id: ba891d98-49a6-4db7-8041-94737392a6bd
+    category: press-release
+    key: CHU-41
+    status: Ready
+    tshirt: S
+    period: Q4 FY27
+    targetDate: 2027-02-28
+  - path: docs/customer-hub/Execution/operative-on-way-compatibility-brings-real-time-last-mile-tr/1.production-deployment-readiness.epic.md
+    id: cc936f23-038f-47f9-acb2-fe1ae432b795
+    category: epic
+    key: CHU-1
+    status: Done
+    moscow: Must
+    tshirt: M
+    parent_press_release: operative-on-way-compatibility-brings-real-time-last-mile-tr.pr.md
+  - path: docs/customer-hub/Execution/operative-on-way-cloud-is-now.pr.md
+    id: f191a18d-dfe4-41b4-98f6-ff4453570df6
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q4 FY27
+    targetDate: 2027-02-28
+  - path: docs/customer-hub/Execution/operative-on-way-moves-to-iq.pr.md
+    id: ff4c28fc-f70e-42d8-bacc-2bbe3c6c2d4a
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q2 FY28
+    targetDate: 2027-08-31
